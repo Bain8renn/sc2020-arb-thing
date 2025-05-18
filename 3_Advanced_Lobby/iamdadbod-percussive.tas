@@ -1,0 +1,21 @@
+console load SpringCollab2020/0-Lobbies/3-Advanced 2048 712
+   1
+
+#Start
+  36
+
+#lvl_Adv_01
+   4,D,X
+   1,L,J
+  10,L
+  56,D,X
+   6,L,D
+  14,R,D,X
+   1,R,J
+  15,R,D,X
+   9,D
+ 120,R,X
+   4,L,G
+  21,R,D,C
+   1,X
+#4.046

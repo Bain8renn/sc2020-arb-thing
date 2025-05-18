@@ -1,0 +1,48 @@
+console load SpringCollab2020/3-Advanced/BeefyUncle
+   1
+
+#Start
+Read,beefyuncle-advanced.tas,Start,lvl_beefy_04
+
+#lvl_beefy_04
+   1,L
+   9,L,J
+  16,L,D,X
+   9,L,D,J
+   6,L
+  12,L,J
+  10,U,X
+   9,R,J
+  18,R
+   4,R,J
+  34,R,D
+   1,R,J,G
+   1,R,K,G
+  13,R
+   8,R,J
+  12,R
+   2,R,J
+  16,U,X
+   4,L
+  35,L,J
+  15,U,X
+   7,L
+  15,R
+  15,R,U,X
+   5,R,J,G
+   1
+   4,J,G
+   1
+   1,J,G
+   7,R
+  13,R,J
+  12,R,K,G
+   5,R,Z
+   1,R,J
+   4,R
+  40
+
+#lvl_beefy_05
+Read,beefyuncle-advanced.tas,lvl_beefy_05
+
+ChapterTime: 1:03.274(3722)

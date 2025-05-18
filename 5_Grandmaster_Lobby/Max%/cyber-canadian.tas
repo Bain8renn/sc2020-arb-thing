@@ -1,0 +1,58 @@
+console load SpringCollab2020/0-Lobbies/5-Grandmaster 192 160
+   1
+
+#Start
+  36
+
+#lvl_1
+   7,J
+   4,D,X
+   6,L,X
+  18,R,J
+  14,R,U,X
+   1,R,J,G
+   1,L
+   6,R
+   4,D,X
+   1,R,X
+   1,R,J
+   8,R
+   1,R,J
+   5,R,D,X
+   1,R,J,G
+   6,R
+   1,R,J
+   7,R
+   7,R,J
+  11,R
+  20,R,X
+  15,R,D,C
+  13,R
+  15,R,X
+  15,R,C
+  14,R,D,X
+   1,R,J
+  10,R,U,X
+   3,R,J,G
+  12,R
+   2,R,J
+   5,R
+  10,R,U,X
+   1,R,J,G
+   9,R
+   4,R,J
+   5,R
+   7,R,J
+  19,R
+  14,R,U,X
+   4,R,J,G
+  19,R
+   1,X
+
+#0:04.913(289)
+
+
+#xpos > 1340.50
+#after coming to rest
+#for exitting to the right to
+#optimise exit
