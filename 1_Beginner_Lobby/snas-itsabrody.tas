@@ -1,0 +1,46 @@
+console load SpringCollab2020/0-Lobbies/1-Beginner 4448 640
+   1
+
+#Start
+  36
+
+#lvl_lobby_main
+   4,D,X
+   2,L,J
+   2,L,K,G
+  16,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   7,L
+   7,L,J,O
+   1,L
+   4,L,K,G
+   3,L,J,G
+   6,L
+   8,L,J,G
+   1,L,K,G
+   2,L
+  15,L,D,X
+  33,D,C
+   1,R,D
+   1,D
+  29,R,D
+   4,D,X
+   1,R,J
+   4,R
+   1,R,K
+   1,R
+   1,R,K
+   1,R
+   7,R,J
+  16,R,D,X
+   1,R
+   4,D,C
+   1,L,J
+   1,X
+#3.060
+
+#xpos < 4208.50
+#after coming to rest
+#for exit warp
