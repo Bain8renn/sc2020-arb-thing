@@ -1,0 +1,350 @@
+console load SpringCollab2020/3-Advanced/Galaksyz
+   1
+
+#Start
+  84
+
+#lvl_Galaksyz_00
+
+
+
+
+
+
+
+   2,R,J
+  15,R,U,X
+  29,R,D
+  15,R,U,X
+  31,R,D
+   4,R,Z
+   5,R,J
+   2,R,K,G
+   3,R
+   1,R,J,G
+  11,R
+   7,R,J
+  40
+
+
+
+
+
+
+
+
+
+
+#   4,D,X
+#   1,R,J
+#   3
+#   9,R
+#   2,R,J
+#   1,R
+#   4,D,X
+#  10,R,X
+#   1,R,J
+#   8,R,D,X
+#   3,R,J,G
+#   4,R
+#   3,R,K,G
+#  11,R
+#   5,R,J
+#  40
+
+
+
+
+
+
+
+
+#lvl_Galaksyz_01
+
+
+
+
+
+
+
+  15,R,D,X
+  11,R,U,Z
+
+
+
+
+
+
+
+
+#   5,R
+#   4,D,X
+#  10,R,X
+
+
+
+
+
+#Demo/Crouch Jump into bubble
+
+
+  28,U,C
+  13,R,J
+   1,R
+   1
+   6,R
+   2,R,J
+   7,R
+  18,L,D
+   4,D
+   1
+   4,D,X
+  11,R,X
+   9,R,U,C
+   4,D,X
+   7,R,X
+  20,R,J
+   3,R
+   2
+   1,R
+   4
+   8,D
+  17,R
+  15,R,X
+  15,R,C
+  28,R,D
+  16,R
+   3,R,D
+   1,R
+   4,D,X
+   2,R,J
+   2,R
+   1,R,K,G
+   1,R
+   1
+   7,R
+   1,J
+  40
+
+#lvl_Galaksyz_02
+   2
+   4,R
+   9,R,J
+   3,J
+  12,U,X
+  25,L,J
+  41,R,X
+  15,D,C
+  15,L,X
+  29,R,D
+   4,D,X
+  10,R,X
+  10,R,J
+   8,R
+  18,R,X
+   4,D,C
+  10,R,C
+  15,R,U,X
+   4,D,C
+   6,L,U,C
+  15,R,U,X
+   4,D,C
+   6,L,U,C
+  23,U,X
+  19,L,U,C
+   2,R
+  15,R,U,X
+   4,D,C
+  11,R,C
+  15,D,X
+   3,R,D
+   4,D,X
+  11,R,X
+  10
+  14,R,D,X
+   1,R,J
+   1
+  12,R,D,X
+   1,R,J,G
+   6
+   6,R
+   1,R,J
+   7,R,D,X
+  40
+
+#lvl_Galaksyz_03
+  12,R,D,X
+   1,R,J
+  15,R
+   7
+   4,D,X
+  12,R,X
+  32,R,C
+  25,R,J
+   4,D,X
+   5,U,X
+  12
+   5,U,C
+  12
+  10,R
+  15,L,D,C
+  10,L
+   4,L,D
+   7,D
+  42,U,C
+  16,R,J
+  55,R,X
+  15,D,C
+  15,R,D
+  14,R,X
+  11,R,D,C
+  21,R,J
+   6,R
+   4,D,X
+  14,R,X
+  15,R,U,C
+   4,D,X
+   4,R,X
+  15,R,U,C
+  23,L
+   5
+   4,D,X
+  11,R,X
+  27,D
+   7,R,J
+   4,D,X
+  11,R,X
+  23,R,D
+   2,R,J
+   4,D,X
+   3,R,X
+   1,R,J
+   6,R
+   1,R,J
+   9,R,D,X
+  40
+
+#lvl_Galaksyz_04
+   4,R,D,X
+   1,R,J
+   7,R,K,G
+  13,R,D,X
+   3,R,J,G
+   2,J
+   6,R,J
+  26,R
+  10,L,D,X
+   2,R,J
+   1,R
+   1,J
+   4,R
+   1,R,J
+  10,R
+   1,R,K,G
+   2,K,G
+  11,R,K,G
+  15,U,X
+   4,R
+  20,R
+  15,D,X
+   9,R,D
+   6,D
+   1
+   1,D
+   4,D,X
+  11,R,X
+   9,U,C
+  13,R
+  26,R,X
+  21,R,C
+  14,R,D,X
+   1,R,J
+  11,R,D,X
+  10,R,J
+  17,U,C
+   1,R,J
+   4,D,X
+  12,R,X
+   8,U,C
+  26
+   1,L,D
+   8,F,180
+   8,F,135
+  14,F,106
+  21,F,53.1
+   7,F,54.2
+   6,F,90
+  52,F,105
+   1,F,104
+   9,F,90
+  19,R,D,X
+  11,R,D,C
+   3,R,J
+   1,J
+  19,R,J
+  13,U,X
+  15,L,U,C
+  35,R,X
+  15,R,C
+   7,R,X
+  18,R,C
+  15,U,X
+  24
+   3,D
+   9,R,D
+   2,D
+   4,D,X
+   6,R,X
+  29,U,C
+  15,R,X
+  33,D
+  14,R,X
+   6
+   1,R
+   9,R,D,X
+  12
+   6,R
+  14,R,X
+   4,D,C
+  10,R,C
+   8,R,J
+  14,R,D,X
+   1,R,J
+   7,R,D,X
+  40
+
+#lvl_Galaksyz_05
+   7,R,D,X
+   1,R,J
+   3,R,K
+  10,R,D,X
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   5,R,K
+  11,K
+   2,R,J,G
+   1
+   1,R,K,G
+   7,R,K
+   1,R
+  14,R,U,X
+   1,R,J,G
+   9,R
+   1,R,J
+   3,R
+  15,R,D,X
+  22,R
+   4,R,D
+  12,D
+   1,J,G
+  11
+   6,R
+   2,R,J
+   2,R
+   2,L
+  79,L,J
+
+ChapterTime: 0:41.361(2433)

@@ -1,0 +1,145 @@
+console load SpringCollab2020/1-Beginner/IsaGoodFriend
+   1
+
+#Start
+  88
+
+#lvl_Isa_Intro
+   5,R
+   1,R,J
+  14,R
+  16,R,J
+  13,L,K
+  21,L,X
+  18,R,D,C
+   5,R,D
+  11,R,J
+  42,R,X
+   4,R,J
+  16,R,K
+   2,R,J,G
+   8,R,D,X
+  40
+
+#lvl_Isa_00
+#awkward and dumb
+#but you need to fall a bit here
+#to get cboost
+  24,R
+   4,R,J
+   1,R,K
+   4,R
+   3,R,J,G
+   5,R
+   4,R,J
+   1,R
+   7,R
+   9,R,J
+   4,D,X
+  11,R,U,X
+   4,R,J
+   1,R,K
+   4,R
+  22,R,X
+   4,R,J
+   1,R,K
+  15,R
+   3,R,J
+   1,R
+  40
+
+#lvl_Isa_01
+   8,R
+  25,R,X
+   4,R,J
+   2,R
+   2,R,K
+   5,R
+  12,R,J,G
+   1,L
+   2,K,G
+  18,R,U,X
+   4,D,C
+   2,R,J
+   3,R,K,G
+   8,R
+  20,R,D,X
+  11,R,K,G
+  15,R
+   1,R,J
+  14,R
+  40
+
+#lvl_Isa_02
+   2,R,D,J
+   7,R
+  22,R,U,X
+   4,D,C
+  36,R,U,C
+  10,R,K
+   1,L,J,G
+  12,L,K,G
+   5,J,G
+   6,R,J
+  15,U,X
+  18,R,J
+  11,R,K,G
+  11,L,J
+  29,L,X
+   4,L,J
+   6,L,K
+  16,U,X
+  14,R,J
+  40
+
+#lvl_Isa_03
+   1
+  10,R,J
+  16,U,X
+   5,R
+   1,R,J,G
+   1,R,K,G
+  14,R
+   7,R,J
+  24,R
+  29,R,X
+   4,R,J
+   1,R,K
+  10,R
+   1
+   9,R
+  14,R,U,X
+  27,R,J,G
+  22,U,X
+  40
+
+#lvl_Isa_04
+   2,L
+   1,J
+   4,K,G
+   7,R,K
+   1,R,J,G
+   2,R,K,G
+  15,R,J,G
+  22,U,X
+   2,L
+   1,L,J,G
+  25,L,K,G
+  29,U,X
+  43
+
+#lvl_Isa_Exit
+  11,R,J,G
+  18,R,U,X
+  26,R,U,C
+   4,R,J
+   4,D,X
+  10,R,J
+   9,R
+   1,L
+  53,L,D,X
+   4,L,J
+   1,L,K
+  88,L,U,X
+
+ChapterTime: 0:22.542(1326)
