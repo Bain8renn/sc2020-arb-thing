@@ -1,0 +1,35 @@
+console load SpringCollab2020/0-Lobbies/3-Advanced 1672 1352
+   1
+
+#Start
+  36
+
+#lvl_Adv_01
+   4,R,X
+   6,R,J
+   7,R
+   2,R,J
+  15,U,X
+   3,R,K,G
+   7,R
+   2,R,J
+  14,U,X
+   5,L,J
+   1,L,K,G
+   7,L
+   2,L,J
+  12,U,X
+   6,R,J
+   6,R
+   2,R
+   1,R,J
+   2,R
+   1,R,J
+   4,R,Z
+   1,L,J
+   1,X
+#0:01.632(96)
+
+#xpos < 1732.50
+#after coming to rest
+#for exit warp

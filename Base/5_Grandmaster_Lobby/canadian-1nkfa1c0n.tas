@@ -1,0 +1,30 @@
+#assumes that entry stops
+#with xpos < 1340.50
+#for exit warp
+
+console load SpringCollab2020/0-Lobbies/5-Grandmaster 1256 176
+   1
+
+#Start
+  36
+
+#lvl_1
+   4,L,Z
+   1,J
+  10,D
+   6,L,D
+  13,R,D
+  15,R,D,X
+   5,D
+   4,R,D
+  20,R,Z
+  17,R,C
+  18,D,X
+  10,L,D,C
+   5,L,J
+  14,L,D,X
+   1,L,J
+  13,L,D
+  42,R,D,X
+   1,N
+#0:02.822(166)

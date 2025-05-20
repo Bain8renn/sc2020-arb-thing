@@ -1,0 +1,1 @@
+collection of the most up to date files for the base collab TAS. use this as a base. when adding new files, please mark them with _ARB or _MX depending on the category, mainly so they dont conflict with these files. also preferably use read commands that reference these files.

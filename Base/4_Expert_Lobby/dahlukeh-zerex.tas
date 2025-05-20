@@ -1,0 +1,82 @@
+console load SpringCollab2020/0-Lobbies/4-Expert 2296 888
+   1
+
+#Start
+  36
+
+#spinner cycle
+   0
+
+#lvl_1
+   6,L,J
+  14,U,X
+   5,L,J
+  13,R,J
+   6,R,K,G
+   1
+   3,R,J,G
+   7,R
+   9,R,J
+   4,K
+   8,R,J,G
+   2,J,G
+   1,L
+   4,K
+   5,L,K
+  15,U,X
+   1
+   1,L
+   2,R
+   2,L,G
+  66,D
+  39
+  12,J
+  37,L
+  27
+  14,R,D,X
+   1,R,J
+  22,R,D,X
+   3,R,J
+   2,R
+  21,R,D,X
+   2,R,K
+  23,R,J,G
+   5,R
+  10,R,U,Z
+stunpause
+   3
+   1,L
+   1,J,G
+   6,L
+   3,R
+endstunpause
+   1,L
+  12,J
+  14,R,U,X
+  11,J,G
+   1,L,J
+   1,K
+   3,L,K
+   4,J
+   8,R,J
+   8,K,G
+   1,L,K
+   3,J
+  12,R,K,G
+  10,J,G
+   2
+  12,K,G
+   5,J
+   6,R,K,G
+   7,J
+   7
+   4,L,Z
+   8,L,J
+   3,L
+   1,X
+
+#IL timing
+#0:10.115(595)
+
+#fullgame timing (without spinner cycle)
+#0:10.115(595)
