@@ -1,0 +1,188 @@
+#Made by Vamp and Sasha
+
+console load SpringCollab2020/1-Beginner/Snas
+   1
+
+#Start
+ 190
+
+#lvl_Snas00
+   4,D,X
+   5,R,X
+   1,R,J
+   7,R
+   1,R,J
+  13,R,U,X
+   5,R,J,G
+   1,R,K,G
+   9,R
+   2,R,J
+   9,R
+   1,R,J
+   2,J
+   2,R,K,G
+  12,R,D,X
+  40
+
+#lvl_Snas01
+   2,R
+   1,R,J
+  13,R,D,C
+  48,U,X
+  42,R,C
+  24,L,D,X
+   6,L
+  15,L,D,C
+  25,L,D
+  51,R,X
+  21,G
+   1
+   2,J
+   5,R,X
+  15,R,J,G
+  44,R,D
+   4,R,Z
+   3,R,J
+   1,R,K,G
+   8,R
+  40
+
+#lvl_Snas02
+   1,R
+   3,R,J
+   6,R
+  15,R,K
+  14,R,U,Z
+  10,R,J,G
+   1,K
+   8,R,J,G
+  28,R,X
+   1,G
+   8,L,D
+  17,D
+   5
+  15,U,X
+   8,R
+   1,J,G
+   1,L,J,G
+   1,R,K,G
+   1,L,K,G
+  16,R,K,G
+   1,R,J,G
+   1,R,K,G
+  32,R,D
+  42,R,X
+  18,U,C
+   5
+  20,R
+  15,R,D,X
+   1,R
+   8,R,D
+   6,R,Z
+   1,R,J
+   7,R
+   4,R,D,J
+   4,J
+  40
+
+#lvl_Snas03
+Read,snas-beginner,lvl_snas03,lvl_snas06
+
+#lvl_Snas06 (0)
+  69
+  10,L,X
+   1,J
+   5,R,J
+  15,U,X
+   1,R
+  12,R,J,G
+   9,R,K,G
+   5,R
+   2,L
+  15,L,X
+  18,L
+   2
+  18,L,D
+   7,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   5,L,D,X
+  40
+
+#lvl_Snas06b
+   9,L,D
+   1,L,J
+  26,L,D
+   2,D
+  14,L,U,Z
+   1,J,G
+   7,R,U,X
+  26,L
+  15,L,Z
+   8,L,D
+  26,R,D
+  21,L,U,X
+  15,L,C
+   5,L
+  15,R,D
+   2,D
+   5,R,D
+  30,L
+  15,L,Z
+  14,L
+  36,U,X
+  35,D
+   8,L,D
+   3
+   4,L
+  16,L,Z
+  49,L,X
+   7,U,C
+  18,L
+  12,U,X
+   4,L
+  10,R,X
+   1,L,J
+   4,L
+  15,L,D,X
+  22,L,D
+  18,L,X
+  14,U,C
+   1,L,J
+   4,L
+  10,R,X
+  12,L,J
+   5,L,D
+   5,L,J
+  11,L
+  14,L,X
+  16,D
+   1
+   1,D
+  78
+   4,Z
+   1,R,J
+   6,R
+   1,N
+  12,R,J
+  15,U,X
+   2,R,J,G
+   7,R
+   7,R,Z
+   1,R,J
+   6,R
+   1,R,J
+  12,R,D,X
+  40
+
+#lvl_Snas06 (1)
+  12,R,J
+   7,R
+  15,U,X
+   7,L,J,G
+   7,L
+  17,R
+  14,R,U,X
+ 135,D
+#0:50.949(2997)
