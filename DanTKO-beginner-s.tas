@@ -104,11 +104,12 @@ console load SpringCollab2020/1-Beginner/DanTKO
    1,R,J
    9,R,U,X
   26,R
-   9,L,U,X
+   9
+   8,L,U,X
   12
    1,R,J
-   5,R
-  12,R,D,X
+   6,R
+  10,R,D,X
    5,R,J
   40
 
@@ -268,4 +269,4 @@ Read,DanTKO-beginner,lvl_DanTKO_03,lvl_DanTKO_05
    1,D,X
    1,R,J
   42,R
-#1:10.227(4131)
+#1:10.346(4138)
